@@ -1,0 +1,18 @@
+# Virtual environments
+venv/
+.env
+
+# Jupyter & Python cache
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# VS Code settings (optional)
+.vscode/
+
+# Mac OS file
+.DS_Store
+
+# ollama
+ollama.db
+
