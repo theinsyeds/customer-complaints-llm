@@ -111,6 +111,16 @@ Based on the **[Building LLM Applications Using Prompt Engineering](https://reso
 
 ---
 
+## 🎓 Certification
+
+**Course:** [Building LLM Applications with Prompt Engineering]([https://resources.nvidia.com/en-us-event-slides/free-courses](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-12+V2))  
+**Issued by:** NVIDIA Deep Learning Institute (DLI)  
+**Credential ID:** `eF435zqHRKij0xo7MFTl3w`  
+**Issued On:** June 18, 2025  
+**Certificate:** [View Credential →](https://learn.nvidia.com/certificates?id=eF435zqHRKij0xo7MFTl3w)
+
+---
+
 ## 📜 License
 
 This project is open source under the terms of the [MIT License](./LICENSE).
